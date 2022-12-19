@@ -16,3 +16,7 @@ npm install </br>
 ### To Run Project
 npm start
 
+
+### Note </br>
+You will need Google Traslator projectID and API Credentials. 
+(https://cloud.google.com/translate/docs/reference/rest)
